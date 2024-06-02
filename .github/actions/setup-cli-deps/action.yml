@@ -9,6 +9,7 @@ runs:
   steps:
     - name: Set Git configuration
       run: |
+        echo PPPPPWWWWWWWNNNNNNNN4444444DDDDDDDD
         echo commands from the legit workflow
         git config --global user.email "app-management@shopify.com"
         git config --global user.name "App Management"
